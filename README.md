@@ -10,7 +10,7 @@ A full-stack hotel room booking system built with MongoDB, Express.js, React, an
 - Admin panel to add/remove rooms, view users and bookings
 
 ## Project Structure
-
+```
 project-root/
 ├── hotelbooking/ # React frontend (contains src/)
 │ └── src/
@@ -19,4 +19,4 @@ project-root/
 ├── db.js # MongoDB connection
 ├── server.js # Express backend entry point
 ├── package.json
-
+```
